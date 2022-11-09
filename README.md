@@ -21,21 +21,20 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Anti-Ban.js">Anti-Ban</a> - Prevent your account from being suspended. If you don't want to run this every time, you can use the <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Tampermonkey/Anti-Ban.js">Tampermonkey Version</a>.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Custom%20Blooks.js">Custom Blooks</a> - Spoof your Custom Blooks with IDs, no matter if you unlocked the accessories or not!
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Flood%20Game.js">Flood Game</a> - Flood the game that you are in.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Set%20Points.js">Set Points</a> - Get points in the Classic mode.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Manipulate%20Plus.js">Manipulate Plus</a> - Gives you access in a spoof to play gamemodes that only Plus and/or Plus Flex can play.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Manipulate%20Plus.js">Manipulate Plus</a> - Gives you access in a spoof to play gamemodes that only Plus and/or Plus Flex members can play.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Select%20Any%20Blook.js">Select Any Blook</a> - Be able to select any Blook before the game starts, including Mysticals and test Blooks!
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Sell%20Dupes.js">Sell Dupes</a> - Sell all of your duplicate Blooks, so you have one (or zero) of each.
 
 
 - Host:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/End%20Game.js">End Game</a> - End the game.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/Kick%20All.js">Kick All</a> - Kick All Players In Game.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/Kick%20All.js">Kick All</a> - Kick all players that are currently in the game.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/Remove%20Player.js">Remove Player</a> - Remove a specific player from a game.
 
 
 - Deceptive Dinos:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Deceptive%20Dinos/Set%20Fossils.js">Set Fossils</a> - Set the Fossils you have to anything you want.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Deceptive%20Dinos/Fossil%20Multiplier.js">Fossil Multiplier</a> - Set the fossil multiplier to anything.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Deceptive%20Dinos/Fossil%20Multiplier.js">Fossil Multiplier</a> - Set your fossil multiplier to whatever you want.
 
 
 - Gold Quest:
@@ -57,21 +56,19 @@
 
 - Crypto Hack:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Auto%20Input%20Password.js">Auto Input Password</a> - Automatically inputs the right password in during a hack.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Set%20Crypto.js">Set Crypto</a> - Set the total crypto you have to anything you want.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Set%20Password.js">Set Crypto</a> - Set the password to anything you want.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Set%20Crypto.js">Set Crypto</a> - Set your crypto you have to whatever you want.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Set%20Password.js">Set Password</a> - Set your password to whatever you want.
 
 
 - Fishing Frenzy:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing%20Frenzy/Set%20Weight.js">Set Weight</a> - Set your total fish weight.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing%20Frenzy/Set%20Weight.js">Set Weight</a> - Set your weight to whatever you want.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing%20Frenzy/Set%20Frenzy%20Mode.js">Set Frenzy Mode</a> - Set the mode to Frenzy.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing%20Frenzy/Set%20Lure.js">Set Lure</a> - Set the lure level.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing%20Frenzy/Set%20Lure.js">Set Lure</a> - Set your lure rank to whatever you want.
 
 
 - Tower Defense:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Clear%20Enemies.js">Clear Enemies</a> - Clear the enemies on the screen.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Damage.js">Set Damage</a> - Set your total damage.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Tokens.js">Set Tokens</a> - Set your in-game tokens.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Get%20Damage.js">Get Damage</a> - Set your total damage.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Tokens.js">Set Tokens</a> - Set your in-game tokens.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Overpowered%20Towers.js">Overpowered Towers</a> - Make all of your towers overpowered.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Place%20Blooks%20Anywhere.js">Place Blooks Anywhere</a> - Place towers in restricted spots.
