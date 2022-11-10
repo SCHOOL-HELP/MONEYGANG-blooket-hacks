@@ -45,7 +45,6 @@
 - Monster Brawl:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Godmode.js">Godmode</a> - Never die.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Max%Abilities.js">Max Abilities</a> - Set all your current abilities to level 9.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20Damage.js">Set Damage</a> - Set the damage your abilities do.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20Level.js">Set Level</a> - Set your current level.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20XP.js">Set XP</a> - Set the amount of XP you have.
 
