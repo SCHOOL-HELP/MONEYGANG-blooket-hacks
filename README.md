@@ -34,7 +34,7 @@
 
 - Flappy Blook (game to play while waiting for host to start):
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Blook/Remove%20Pipes.js">Remove Pipes</a> - Removes all the pipes.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Blook/Set%20Score.js">Set Score</a> - Set your score.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Blook/Set%20Score.js">Set Score</a> - Set your score to whatever you want.
 
 
 - Gold Quest:
@@ -45,7 +45,6 @@
 - Monster Brawl:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Godmode.js">Godmode</a> - Never take damage from enemies.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Max%Abilities.js">Max Abilities</a> - Set all your current abilities' level to 9.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20Damage.js">Set Damage</a> - Set the damage your abilities do.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20Level.js">Set Level</a> - Set your level to whatever you want.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20XP.js">Set XP</a> - Set your XP to whatever you want.
 
@@ -63,7 +62,7 @@
 
 
 - Deceptive Dinos:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Deceptive%20Dinos/Set%20Fossils.js">Set Fossils</a> - Set your fossils to anything you want.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Deceptive%20Dinos/Set%20Fossils.js">Set Fossils</a> - Set your fossils to whatever you want.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Deceptive%20Dinos/Fossil%20Multiplier.js">Fossil Multiplier</a> - Set your fossil multiplier to whatever you want.
 
 
@@ -90,7 +89,7 @@
 - Factory:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Add%20Mega%20Bot.js">Add Mega Bot</a> - Set all factory cards to Mega Bot.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Clear%20Ads%20Forever.js">Clear Ads Forever</a> - Never receive in-game warnings.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Set%20Cash.js">Set Cash</a> - Set the game cash.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Set%20Cash.js">Set Cash</a> - Set your cash to whatever you want.
 
 
 - Racing:
