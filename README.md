@@ -43,7 +43,7 @@
 
 
 - Monster Brawl:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster-Brawl/Godmode.js">Godmode</a> - Never take damage from enemies.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster-Brawl/Invincibility.js">Invincibility</a> - Never take damage from enemies.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster-Brawl/Max%Abilities.js">Max Abilities</a> - Set all your current abilities' level to 9.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster-Brawl/Set-Level.js">Set Level</a> - Set your level to whatever you want.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster-Brawl/Set-XP.js">Set XP</a> - Set your XP to whatever you want.
@@ -58,7 +58,7 @@
 - Fishing Frenzy:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing-Frenzy/Set-Weight.js">Set Weight</a> - Set your weight to whatever you want.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing-Frenzy/Set-Frenzy-Mode.js">Set Frenzy Mode</a> - Set the mode to Frenzy.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing-Frenzy/Set-Lure.js">Set Lure</a> - Set your lure rank to whatever you want.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing-Frenzy/Set-Lure-Rank.js">Set Lure Rank</a> - Set your lure rank to whatever you want.
 
 
 - Deceptive Dinos:
