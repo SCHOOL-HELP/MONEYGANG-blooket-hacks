@@ -11,4 +11,4 @@ function reactEventHandler() {
 })();
 
 reactEventHandler().state.game.instance.events._events['game-over'].map(a => a.fn = () => {});
-alert("Enabled God Mode.");
+alert("Enabled invincibility.");
