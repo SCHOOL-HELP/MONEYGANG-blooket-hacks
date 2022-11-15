@@ -96,10 +96,6 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Racing/Instant%20Win.js">Instant Win</a> - Win racing. <I>(NOTE: Once the hack is used, get one question right to win)</I>
 
 
-- Crazy Kingdom:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crazy%20Kingdom/Choice%20ESP.js">Choice ESP</a> - See through choices.
-
-
 - Tower of Doom:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Bad%20Enemy.js">Bad Enemy</a> - Minimize the opponent's cards' stats.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Set%20Coins.js">Set Coins</a> - Set your coins to whatever you want.
