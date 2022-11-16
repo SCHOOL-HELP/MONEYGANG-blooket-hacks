@@ -6,12 +6,9 @@ function reactEventHandler() {
 (() => {
     let n = document.createElement('iframe');
     document.body.append(n);
-    window.prompt = n.contentWindow.prompt.bind(window);
     window.alert = n.contentWindow.alert.bind(window);
     n.remove();
 })();
 
-Object.keys(reactEventHandler().state.abilities).map(a => reactEventHandler().state.abilities[a] = 9);
-reactEventHandler().state.game.scene.children.list.filter(a => a.texture?.key?.startsWith('darkEnergy')).map(a => a.scale = 5);
-
-alert("Maxxed out all abilities.");
+reactEventHandler().state.game.instance.events._events['game-over'].map(a => a.fn = () => {});
+alert("Enabled invincibility.");

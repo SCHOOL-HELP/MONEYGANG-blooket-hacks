@@ -6,9 +6,11 @@ function reactEventHandler() {
 (() => {
     let n = document.createElement('iframe');
     document.body.append(n);
+    window.prompt = n.contentWindow.prompt.bind(window);
     window.alert = n.contentWindow.alert.bind(window);
     n.remove();
 })();
+level = parseInt(prompt("Enter level:"));
 
-reactEventHandler().state.game.instance.events._events['game-over'].map(a => a.fn = () => {});
-alert("Enabled God Mode.");
+reactEventHandler().setState({ level });
+alert(`Set level to ${level}.`);

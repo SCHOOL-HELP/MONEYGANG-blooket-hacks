@@ -10,7 +10,8 @@ function reactEventHandler() {
     window.alert = n.contentWindow.alert.bind(window);
     n.remove();
 })();
-level = parseInt(prompt("Enter level:"));
 
-reactEventHandler().setState({ level });
-alert(`Set level to ${level}.`);
+Object.keys(reactEventHandler().state.abilities).map(a => reactEventHandler().state.abilities[a] = 9);
+reactEventHandler().state.game.scene.children.list.filter(a => a.texture?.key?.startsWith('darkEnergy')).map(a => a.scale = 5);
+
+alert("Maxed out all abilities.");
