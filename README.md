@@ -25,6 +25,7 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default-Scripts/Select-Any-Blook.js">Select Any Blook</a> - Be able to select any Blook before the game starts, including Mysticals and test Blooks!
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default-Scripts/Sell-Dupes.js">Sell Dupes</a> - Sell all of your duplicate Blooks, so you have one (or zero) of each.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default-Scripts/Get-Folder.js">Get Folder</a> - Make a folder in the My-Sets page without the Blooket Plus plan.
+    - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Default%20Scripts/Bypass-Random-Nickname.js">Bypass Random Nickname</a> - Set your random nickname in a live game.
 
 
 - Host:
