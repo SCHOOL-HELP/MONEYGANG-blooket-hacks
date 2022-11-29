@@ -38,6 +38,11 @@
 - Flappy Blook (game to play while waiting for host to start):
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy-Blook/Remove-Pipes.js">Remove Pipes</a> - Removes all the pipes.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy-Blook/Set-Score.js">Set Score</a> - Set your score to whatever you want.
+    
+
+- Santa's Workshop
+    - <a href="https://github.com/rzxyx/Blooket-Hacks/blob/main/Santas-Workshop/Set-Toys.js">Set Toys</a> - Set your toys in Santa's Workshop.
+    - <a href="https://github.com/rzxyx/Blooket-Hacks/blob/main/Santas-Workshop/Set-Toys-Per-Question.js">Set Toys Per Question</a> - Set your toys per question in Santa's Workshop.
 
 
 - Gold Quest:
