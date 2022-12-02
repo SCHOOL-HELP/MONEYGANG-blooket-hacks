@@ -1,4 +1,4 @@
-var iframe = document.createElement('iframe');
+javascript:var iframe = document.createElement('iframe');
 iframe.style.display = 'none';
 document.body.appendChild(iframe);
 window.prompt = iframe.contentWindow.prompt;
