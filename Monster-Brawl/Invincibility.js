@@ -1,4 +1,4 @@
-function reactEventHandler() {
+javascript:function reactEventHandler() {
     let react = Object.values(document.querySelector("#body"))[0].stateNode;
     return react[Object.keys(react).filter(a => a.includes("reactInternalInstance"))].return.stateNode;
 }
